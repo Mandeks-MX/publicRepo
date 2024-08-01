@@ -1,0 +1,51 @@
+[
+  {
+    "microController": "atmega328p",
+    "shortName": "SRC",
+    "description": "4.3.3 rand addr on setup",
+    "link": "SRCv4.3.3/firmware.hex",
+    "version": "4.3.0",
+    "licence": "royality",
+    "device": "SRC01"
+  },
+  {
+    "microController": "atmega328p",
+    "shortName": "Extender v2.0.19",
+    "description": "",
+    "link": "SRC-Extension-v2.0.19/firmware.hex",
+    "version": "2.0.19",
+    "licence": "royality"
+  },
+  {
+    "microController": "stm8l152r8",
+    "shortName": "TH01-ID1-v9.4",
+    "description": "...",
+    "link": "v9.4/1.hex",
+    "version": "9.4.0",
+    "licence": "royality"
+  },
+  {
+    "microController": "stm8l152r8",
+    "shortName": "TH01-ID2-v9.4",
+    "description": "...",
+    "link": "v9.4/2.hex",
+    "version": "9.4.0",
+    "licence": "royality"
+  },
+  {
+    "microController": "stm8l152r8",
+    "shortName": "TH01-ID3-v9.4",
+    "description": "...",
+    "link": "v9.4/3.hex",
+    "version": "9.4.0",
+    "licence": "royality"
+  },
+  {
+    "microController": "stm8l152r8",
+    "shortName": "TH01-Custom-v9.4",
+    "description": "...",
+    "link": "v9.4/th01.hex",
+    "version": "9.4.0",
+    "licence": "royality"
+  }
+]

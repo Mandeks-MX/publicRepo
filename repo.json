@@ -17,6 +17,14 @@
     "licence": "royality"
   },
   {
+    "microController": "atmega328p",
+    "shortName": "MFC v2.0.11",
+    "description": "",
+    "link": "mfc-2.0.11/firmware.hex",
+    "version": "2.0.11",
+    "licence": "royality"
+  },
+  {
     "microController": "stm8l152r8",
     "shortName": "TH01-ID1-v10.0",
     "description": "...",
